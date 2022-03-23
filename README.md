@@ -1,4 +1,5 @@
 ### Olá, meu nome é Victor Amaral Bento 👋
+###### Estudante de Análise e Desenvolvimento de Sistemas 📚 | Desenvolvedor Web em formação 💻🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorab/)
 
@@ -26,4 +27,4 @@
 
 </div>
 
-#### Estudante de Análise e Desenvolvimento de Sistemas 📚 | Desenvolvedor Web em formação 💻🌐
+
