@@ -5,7 +5,8 @@
 
 
 ![abvictor GitHub stats](https://github-readme-stats.vercel.app/api?username=abvictor&show_icons=true&theme=onedark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abvictor)](https://github.com/abvictor/github-readme-stats)
+<div style="display: inline_block">
 
 ## Tecnologias usadas no meu no dia a dia 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abvictor)](https://github.com/abvictor/github-readme-stats)
