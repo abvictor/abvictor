@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Desenvolvedor apaixonado pelas stacks de Javascript!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abvictor" alt="abvictor" /></a> </p>
-
 - 🔭 I’m currently working on **RodInfo**
+
+- 🌱 I’m currently learning **Nest.JS, TDD and Clean Architecture**
+
+- 📫 How to reach me **victor.laramab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
