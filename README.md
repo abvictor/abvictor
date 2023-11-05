@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem vindo ao meu repositório! Meu nome é Victor 👋.</h1>
+<h1 align="center">Seja bem vindo ao meu repositório! Meu nome é Victor.</h1>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">Atualmente estou buscando aperfeiçoar minhas habilidades de desenvolvimento estudando mais sobre Clean Code, TDD e Clean Architecture, aplicando esses estudos juntamente ao framework NestJS e que em breve serão aplicados em um novo grande projeto pessoal. Além disso, também estou buscando aprender mais sobre Docker e as ferramentas disponibilizadas pela AWS.</p>
+<p align="left">Atualmente estou buscando aperfeiçoar minhas habilidades de desenvolvimento, estudando mais sobre Clean Code, TDD e Clean Architecture, aplicando esses estudos juntamente ao framework NestJS e que em breve serão aplicados em um novo grande projeto pessoal. Além disso, também estou buscando aprender mais sobre Docker e as ferramentas disponibilizadas pela AWS.</p>
 
 ###
 
@@ -84,10 +84,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
 ###
