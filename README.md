@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">Atualmente estou buscando aperfeiçoar minhas habilidades de desenvolvimento estudando mais sobre Clean Code, TDD e Clean Architecture, aplicando esses estudos no framework NestJS e que em breve serão aplicados em um novo grande projeto pessoal. Além disso, também estou buscando aprender mais sobre Docker e as ferramentas disponibilizadas pela AWS.</p>
+<p align="left">Atualmente estou buscando aperfeiçoar minhas habilidades de desenvolvimento estudando mais sobre Clean Code, TDD e Clean Architecture, aplicando esses estudos juntamente ao framework NestJS e que em breve serão aplicados em um novo grande projeto pessoal. Além disso, também estou buscando aprender mais sobre Docker e as ferramentas disponibilizadas pela AWS.</p>
 
 ###
 
