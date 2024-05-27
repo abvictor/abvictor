@@ -70,6 +70,6 @@
 
 ###
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+<h2>&nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Victor Amaral's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abvictor&show_icons=true&theme=dracula)
